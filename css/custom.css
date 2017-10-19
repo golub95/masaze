@@ -1,0 +1,71 @@
+.logo{
+	position: absolute;
+	margin-top: 11px;
+	width: 550px;
+}
+body{
+	background-color: #f9f9f9;
+	
+	
+}
+
+
+.carousel-caption {					
+  z-index: 10;
+}
+
+
+.carousel .item {					/* iza slike */
+  height: 650px;
+  background-color: #777;
+}
+.carousel-inner > .item > img {		/*Početna slika */
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 650px;
+}
+cjenik{
+	height:25%;
+	
+}
+
+	
+
+
+.featurette-divider {				 /* divovi kod masaža */
+	height: 20%;
+	margin: 10%;
+	
+	
+}
+.lead{
+	font-family: ;
+	font-size: 150%;
+}
+
+
+footer{
+	
+	background-color: #f2f2f2;
+	
+}
+
+.pull-right{ 						/*dugme za povratak na vrh*/
+	background-color: #337ab7;
+    color: white;
+    padding: 2% 4px;
+	padding-bottom: 2%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+	
+	
+
+
+
+
+
+	
+
